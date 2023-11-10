@@ -35,9 +35,6 @@ The project must be run at:
 
 ```bash
 http://localhost:8000
-
-# Show Users 
-http://localhost:8000/users
 ```
 
 ## Routes
